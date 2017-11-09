@@ -11,7 +11,8 @@ CAD A - [WIP]
 ===========================
 CAD A had a small board outline randomly placed near the origin. 
 CAD A2 removed the small board outline which allows the PCBs.io software to visualise the board correctly. 
- 
+CAD A3 corrected text positions and changed rear panel text to Golden Ticket, removing the web address - 
+
 Visually confirmed at OSH park using the board visualisation system. 
 Unfortunately they only have purple solder mask and this project requires black solder mask. 
 
