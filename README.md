@@ -16,6 +16,10 @@ CAD A3 corrected text positions and changed rear panel text to Golden Ticket, re
 Visually confirmed at OSH park using the board visualisation system. 
 Unfortunately they only have purple solder mask and this project requires black solder mask. 
 
+CAD A3
+* sent to PCBs.io for manufacture 9 Nov 2017
+* would benefit from text outline change
+
 CAD A2 sent to PCBs.io 9 Nov 2017
 * board thickness 1.6mm
 * Named: Ticket to my heart admit one
