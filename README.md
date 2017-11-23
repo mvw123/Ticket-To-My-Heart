@@ -27,7 +27,7 @@ CAD A2
 
 CAD A 
 * Had a small board outline randomly placed near the origin. This hasn’t affected elecrow, though may affect PCBs.io
-* CAD A sent to Elecrow for manufacture 9 Nov 2017. - Boards returned 23 Nov 2017 and they look great! Of the 10 boards a few have slight imperfections in the solder mask, the corners are not rounded as they should have been. Though checking the gerber shows that they are rounded in the gerber. 
+* CAD A sent to Elecrow for manufacture 9 Nov 2017. - Boards returned 23 Nov 2017 and they look great! Of the 10 boards 3 have slight imperfections in the solder mask and on most boards the corners are not rounded as they should have been. The gerber shows that the corners are rounded so perhaps i need to make the rounding more pronounced.
 * CAD A also sent it to PCBs.io to test their process because its cheaper, see notes below.
 * Visually confirmed at OSH park using the board visualisation system. Unfortunately they only have purple solder mask and this project requires black solder mask. 
 * Used Elecrow DRC and 2 layer CAM files to produce gerbers.
